@@ -18,9 +18,11 @@ It installs for your Windows user only (no administrator rights needed) and
 adds a Start menu shortcut. LinkedFiles checks for updates when it starts and
 asks before installing one.
 
-> **"Windows protected your PC"?** Early releases aren't code-signed yet, so
-> Microsoft SmartScreen doesn't recognise the publisher. Click **More info →
-> Run anyway**. Only do this for installers downloaded from this page.
+> **"Windows protected your PC"?** From version 0.1.1 the installer is
+> code-signed by **Syed Fahib**. Microsoft SmartScreen still warns about new
+> downloads until enough people have installed them. Check that the publisher
+> says Syed Fahib, then click **More info → Run anyway**. Only do this for
+> installers downloaded from this page.
 
 To uninstall: **Settings → Apps → Installed apps → LinkedFiles → Uninstall**.
 
@@ -48,4 +50,4 @@ Use the **Feedback** button in the app, or email founder@apturra.com.
 
 ## License
 
-Free to use. © 2026 Apturra. All rights reserved. See [LICENSE.md](LICENSE.md).
+Free to use. © 2026 Syed Fahib. All rights reserved. See [LICENSE.md](LICENSE.md).
